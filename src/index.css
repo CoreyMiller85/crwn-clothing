@@ -1,3 +1,11 @@
+@font-face {
+  font-family: 'Open Sans Condensed';
+  src: local('OpenSansCondensed'),
+    url('font/OpenSans-CondBold.ttf') format('tff'),
+    url('font/OpenSans-CondLight.ttf') format('tff'),
+    url('font/OpenSans-CondLightItalic.ttf') format('tff');
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
